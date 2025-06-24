@@ -1,5 +1,5 @@
 
-#  Muhammed Rabah M
+# 👨🏽‍💻 Muhammed Rabah M
 
 
 <div align="center">
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Database-MongoDB+PostgreSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWN4bnlqbnphMzBnb20wNXJwMTV0cjc3YmRpOGx5cnQ3djIyNXUyOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fhAwk4DnqNgw8/giphy.gif"/>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY2M3dldnp2cHEwbzk1OW0xajJzOGh4MG92ZXQ5cWVvYWdtMnp4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QpVUMRUJGokfqXyfa1/giphy.gif"/>
 
 ##  About Me
 
